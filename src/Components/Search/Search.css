@@ -1,0 +1,8 @@
+.search{
+    margin: 20px auto;
+    width: 60%;
+    font-family: monospace;
+    background-color: white;
+    border: rgba(255, 0, 251, 0.167) solid 3px;
+    border-radius: 6px;
+}
