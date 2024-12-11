@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import Search from './Components/Search/Search'
-import CurrentWeather from './Components/CurrentWeather/currentWeather'
+import CurrentWeather from './Components/CurrentWeather/CurrentWeather.jsx'
 import Forecast from './Components/Forecast/Forecast.jsx'
 import { WEATHER_API_KEY,WEATHER_API_URL } from './api'
 
